@@ -1,4 +1,4 @@
-# To-Do App (Flask)
+# To-Do App 
 
 A simple and clean To-Do List web application built using Flask and SQLite. This project allows users to manage daily tasks efficiently with a minimal and user-friendly interface.
 
